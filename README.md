@@ -1,5 +1,5 @@
 in the work
 
-Will use the f3_revised data as custom featurization with CBFV
+**Refractory High Entropy Alloys (RHEAs)** form a special class of material within the broader category of **High Entropy Alloys (HEAs)**
 
-Right now only one machine learning model (Gradient Boosting Regressor) is being used. Goal is to evaluate performance of different types of models and select the best performing one.
+This project's aim is design of RHEA using Composition Based Feature Vector (CBFV)
